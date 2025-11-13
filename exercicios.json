@@ -1,32 +1,3782 @@
 [
   {
-    "id": "pullup_pronada",
-    "nome": "Pull-up Pronado",
+    "id": "pull-up_pronada_iniciante",
+    "nome": "Pull-up – Pronada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "pronada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_pronada_intermediário",
+    "nome": "Pull-up – Pronada",
     "grupo": "Costas",
     "tipo": "Peso corporal",
     "nivel": "intermediário",
     "padrao": "puxar vertical",
-    "tags": ["barra_fixa", "pull", "costas", "intermediário"],
-    "descricao": "Puxada vertical com pegada pronada, trabalhando dorsais, trapézio e antebraços. Base para progressões como muscle-up e front lever."
+    "tags": [
+      "pull-up",
+      "pronada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
   },
   {
-    "id": "chinup_supinada",
-    "nome": "Chin-up Supinado",
+    "id": "pull-up_pronada_avançado",
+    "nome": "Pull-up – Pronada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "pronada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_supinada_iniciante",
+    "nome": "Pull-up – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "supinada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_supinada_intermediário",
+    "nome": "Pull-up – Supinada",
     "grupo": "Costas",
     "tipo": "Peso corporal",
     "nivel": "intermediário",
     "padrao": "puxar vertical",
-    "tags": ["chinup", "bíceps", "costas"],
-    "descricao": "Variante com pegada supinada, mais amigável para iniciantes e com maior recrutamento de bíceps."
+    "tags": [
+      "pull-up",
+      "supinada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
   },
   {
-    "id": "air_squat",
-    "nome": "Air Squat",
+    "id": "pull-up_supinada_avançado",
+    "nome": "Pull-up – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "supinada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_neutra_iniciante",
+    "nome": "Pull-up – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "neutra",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_neutra_intermediário",
+    "nome": "Pull-up – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "neutra",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_neutra_avançado",
+    "nome": "Pull-up – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "neutra",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_larga_iniciante",
+    "nome": "Pull-up – Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "larga",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_larga_intermediário",
+    "nome": "Pull-up – Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "larga",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_larga_avançado",
+    "nome": "Pull-up – Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "larga",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_fechada_iniciante",
+    "nome": "Pull-up – Fechada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "fechada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (fechada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_fechada_intermediário",
+    "nome": "Pull-up – Fechada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "fechada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (fechada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_fechada_avançado",
+    "nome": "Pull-up – Fechada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "fechada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (fechada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_mista_iniciante",
+    "nome": "Pull-up – Mista",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "mista",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (mista) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_mista_intermediário",
+    "nome": "Pull-up – Mista",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "mista",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (mista) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_mista_avançado",
+    "nome": "Pull-up – Mista",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "mista",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (mista) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_explosiva_iniciante",
+    "nome": "Pull-up – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "explosiva",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_explosiva_intermediário",
+    "nome": "Pull-up – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "explosiva",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_explosiva_avançado",
+    "nome": "Pull-up – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "explosiva",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_isometria_topo_iniciante",
+    "nome": "Pull-up – Isometria Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_topo",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_isometria_topo_intermediário",
+    "nome": "Pull-up – Isometria Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_topo",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_isometria_topo_avançado",
+    "nome": "Pull-up – Isometria Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_topo",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_isometria_90°_iniciante",
+    "nome": "Pull-up – Isometria 90°",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_90°",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria 90°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_isometria_90°_intermediário",
+    "nome": "Pull-up – Isometria 90°",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_90°",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria 90°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_isometria_90°_avançado",
+    "nome": "Pull-up – Isometria 90°",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "isometria_90°",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (isometria 90°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_excêntrica_iniciante",
+    "nome": "Pull-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "excêntrica",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_excêntrica_intermediário",
+    "nome": "Pull-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "excêntrica",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_excêntrica_avançado",
+    "nome": "Pull-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "excêntrica",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_unilateral_assistida_iniciante",
+    "nome": "Pull-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "unilateral_assistida",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_unilateral_assistida_intermediário",
+    "nome": "Pull-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "unilateral_assistida",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_unilateral_assistida_avançado",
+    "nome": "Pull-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "unilateral_assistida",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_archer_iniciante",
+    "nome": "Pull-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "archer",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_archer_intermediário",
+    "nome": "Pull-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "archer",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_archer_avançado",
+    "nome": "Pull-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "archer",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_com_cadência_lenta_iniciante",
+    "nome": "Pull-up – Com Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_cadência_lenta",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_com_cadência_lenta_intermediário",
+    "nome": "Pull-up – Com Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_cadência_lenta",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_com_cadência_lenta_avançado",
+    "nome": "Pull-up – Com Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_cadência_lenta",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_com_pausa_no_fundo_iniciante",
+    "nome": "Pull-up – Com Pausa no Fundo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_pausa_no_fundo",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_com_pausa_no_fundo_intermediário",
+    "nome": "Pull-up – Com Pausa no Fundo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_pausa_no_fundo",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_com_pausa_no_fundo_avançado",
+    "nome": "Pull-up – Com Pausa no Fundo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "com_pausa_no_fundo",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (com pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "pull-up_alternada_iniciante",
+    "nome": "Pull-up – Alternada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "alternada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (alternada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "pull-up_alternada_intermediário",
+    "nome": "Pull-up – Alternada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "alternada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (alternada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "pull-up_alternada_avançado",
+    "nome": "Pull-up – Alternada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "pull-up",
+      "alternada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação de puxada vertical desenvolvendo dorsais, trapézio e braquial. Esta variação (alternada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_supinada_iniciante",
+    "nome": "Chin-up – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_supinada_intermediário",
+    "nome": "Chin-up – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_supinada_avançado",
+    "nome": "Chin-up – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_supinada_larga_iniciante",
+    "nome": "Chin-up – Supinada Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada_larga",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_supinada_larga_intermediário",
+    "nome": "Chin-up – Supinada Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada_larga",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_supinada_larga_avançado",
+    "nome": "Chin-up – Supinada Larga",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "supinada_larga",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (supinada larga) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_excêntrica_iniciante",
+    "nome": "Chin-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "excêntrica",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_excêntrica_intermediário",
+    "nome": "Chin-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "excêntrica",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_excêntrica_avançado",
+    "nome": "Chin-up – Excêntrica",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "excêntrica",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (excêntrica) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_isometria_de_topo_iniciante",
+    "nome": "Chin-up – Isometria de Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "isometria_de_topo",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (isometria de topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_isometria_de_topo_intermediário",
+    "nome": "Chin-up – Isometria de Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "isometria_de_topo",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (isometria de topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_isometria_de_topo_avançado",
+    "nome": "Chin-up – Isometria de Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "isometria_de_topo",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (isometria de topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_com_banda_iniciante",
+    "nome": "Chin-up – Com Banda",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_banda",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com banda) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_com_banda_intermediário",
+    "nome": "Chin-up – Com Banda",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_banda",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com banda) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_com_banda_avançado",
+    "nome": "Chin-up – Com Banda",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_banda",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com banda) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_com_pausa_iniciante",
+    "nome": "Chin-up – Com Pausa",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_pausa",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com pausa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_com_pausa_intermediário",
+    "nome": "Chin-up – Com Pausa",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_pausa",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com pausa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_com_pausa_avançado",
+    "nome": "Chin-up – Com Pausa",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_pausa",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com pausa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_archer_iniciante",
+    "nome": "Chin-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "archer",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_archer_intermediário",
+    "nome": "Chin-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "archer",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_archer_avançado",
+    "nome": "Chin-up – Archer",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "archer",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (archer) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_unilateral_assistida_iniciante",
+    "nome": "Chin-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "unilateral_assistida",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_unilateral_assistida_intermediário",
+    "nome": "Chin-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "unilateral_assistida",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_unilateral_assistida_avançado",
+    "nome": "Chin-up – Unilateral Assistida",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "unilateral_assistida",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (unilateral assistida) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "chin-up_com_cadência_iniciante",
+    "nome": "Chin-up – Com Cadência",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_cadência",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com cadência) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "chin-up_com_cadência_intermediário",
+    "nome": "Chin-up – Com Cadência",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_cadência",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com cadência) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "chin-up_com_cadência_avançado",
+    "nome": "Chin-up – Com Cadência",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar vertical",
+    "tags": [
+      "chin-up",
+      "com_cadência",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Variação supinada com ativação reforçada dos bíceps. Esta variação (com cadência) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_pronada_iniciante",
+    "nome": "Australian – Pronada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pronada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_pronada_intermediário",
+    "nome": "Australian – Pronada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pronada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_pronada_avançado",
+    "nome": "Australian – Pronada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pronada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pronada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_supinada_iniciante",
+    "nome": "Australian – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "supinada",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_supinada_intermediário",
+    "nome": "Australian – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "supinada",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_supinada_avançado",
+    "nome": "Australian – Supinada",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "supinada",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (supinada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_neutra_iniciante",
+    "nome": "Australian – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "neutra",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_neutra_intermediário",
+    "nome": "Australian – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "neutra",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_neutra_avançado",
+    "nome": "Australian – Neutra",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "neutra",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (neutra) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_pés_avançados_iniciante",
+    "nome": "Australian – Pés Avançados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_avançados",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés avançados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_pés_avançados_intermediário",
+    "nome": "Australian – Pés Avançados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_avançados",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés avançados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_pés_avançados_avançado",
+    "nome": "Australian – Pés Avançados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_avançados",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés avançados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_pés_elevados_iniciante",
+    "nome": "Australian – Pés Elevados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_elevados",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés elevados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_pés_elevados_intermediário",
+    "nome": "Australian – Pés Elevados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_elevados",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés elevados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_pés_elevados_avançado",
+    "nome": "Australian – Pés Elevados",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "pés_elevados",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (pés elevados) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_explosiva_iniciante",
+    "nome": "Australian – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "explosiva",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_explosiva_intermediário",
+    "nome": "Australian – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "explosiva",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_explosiva_avançado",
+    "nome": "Australian – Explosiva",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "explosiva",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (explosiva) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_isometria_no_topo_iniciante",
+    "nome": "Australian – Isometria no Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_topo",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_isometria_no_topo_intermediário",
+    "nome": "Australian – Isometria no Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_topo",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_isometria_no_topo_avançado",
+    "nome": "Australian – Isometria no Topo",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_topo",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no topo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_isometria_no_meio_iniciante",
+    "nome": "Australian – Isometria no Meio",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_meio",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no meio) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_isometria_no_meio_intermediário",
+    "nome": "Australian – Isometria no Meio",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_meio",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no meio) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_isometria_no_meio_avançado",
+    "nome": "Australian – Isometria no Meio",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "isometria_no_meio",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (isometria no meio) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "australian_cadência_lenta_iniciante",
+    "nome": "Australian – Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "cadência_lenta",
+      "iniciante",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "australian_cadência_lenta_intermediário",
+    "nome": "Australian – Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "cadência_lenta",
+      "intermediário",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "australian_cadência_lenta_avançado",
+    "nome": "Australian – Cadência Lenta",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "puxar horizontal",
+    "tags": [
+      "australian",
+      "cadência_lenta",
+      "avançado",
+      "costas"
+    ],
+    "descricao": "Puxada horizontal ideal para regressão de pull-ups. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_livre_iniciante",
+    "nome": "Agachamento – Livre",
     "grupo": "Pernas",
     "tipo": "Peso corporal",
     "nivel": "iniciante",
     "padrao": "joelho dominante",
-    "tags": ["agachamento", "iniciante", "pernas"],
-    "descricao": "Agachamento livre com o peso do corpo, focado em quadríceps e glúteos, base para todas as variações de agachamento."
+    "tags": [
+      "agachamento",
+      "livre",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (livre) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_livre_intermediário",
+    "nome": "Agachamento – Livre",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "livre",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (livre) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_livre_avançado",
+    "nome": "Agachamento – Livre",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "livre",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (livre) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_sumô_iniciante",
+    "nome": "Agachamento – Sumô",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "sumô",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (sumô) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_sumô_intermediário",
+    "nome": "Agachamento – Sumô",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "sumô",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (sumô) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_sumô_avançado",
+    "nome": "Agachamento – Sumô",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "sumô",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (sumô) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_fechado_iniciante",
+    "nome": "Agachamento – Fechado",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "fechado",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (fechado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_fechado_intermediário",
+    "nome": "Agachamento – Fechado",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "fechado",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (fechado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_fechado_avançado",
+    "nome": "Agachamento – Fechado",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "fechado",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (fechado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_pausa_no_fundo_iniciante",
+    "nome": "Agachamento – Pausa no Fundo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pausa_no_fundo",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_pausa_no_fundo_intermediário",
+    "nome": "Agachamento – Pausa no Fundo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pausa_no_fundo",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_pausa_no_fundo_avançado",
+    "nome": "Agachamento – Pausa no Fundo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pausa_no_fundo",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pausa no fundo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_cadência_lenta_iniciante",
+    "nome": "Agachamento – Cadência Lenta",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cadência_lenta",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_cadência_lenta_intermediário",
+    "nome": "Agachamento – Cadência Lenta",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cadência_lenta",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_cadência_lenta_avançado",
+    "nome": "Agachamento – Cadência Lenta",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cadência_lenta",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cadência lenta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_explosivo_iniciante",
+    "nome": "Agachamento – Explosivo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "explosivo",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_explosivo_intermediário",
+    "nome": "Agachamento – Explosivo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "explosivo",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_explosivo_avançado",
+    "nome": "Agachamento – Explosivo",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "explosivo",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_salto_vertical_iniciante",
+    "nome": "Agachamento – Salto Vertical",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "salto_vertical",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (salto vertical) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_salto_vertical_intermediário",
+    "nome": "Agachamento – Salto Vertical",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "salto_vertical",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (salto vertical) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_salto_vertical_avançado",
+    "nome": "Agachamento – Salto Vertical",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "salto_vertical",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (salto vertical) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_isometria_iniciante",
+    "nome": "Agachamento – Isometria",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "isometria",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_isometria_intermediário",
+    "nome": "Agachamento – Isometria",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "isometria",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_isometria_avançado",
+    "nome": "Agachamento – Isometria",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "isometria",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_skater_iniciante",
+    "nome": "Agachamento – Skater",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "skater",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (skater) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_skater_intermediário",
+    "nome": "Agachamento – Skater",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "skater",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (skater) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_skater_avançado",
+    "nome": "Agachamento – Skater",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "skater",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (skater) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_cossack_iniciante",
+    "nome": "Agachamento – Cossack",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cossack",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cossack) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_cossack_intermediário",
+    "nome": "Agachamento – Cossack",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cossack",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cossack) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_cossack_avançado",
+    "nome": "Agachamento – Cossack",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "cossack",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (cossack) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_pistol_assistido_iniciante",
+    "nome": "Agachamento – Pistol Assistido",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol_assistido",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol assistido) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_pistol_assistido_intermediário",
+    "nome": "Agachamento – Pistol Assistido",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol_assistido",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol assistido) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_pistol_assistido_avançado",
+    "nome": "Agachamento – Pistol Assistido",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol_assistido",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol assistido) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_pistol_iniciante",
+    "nome": "Agachamento – Pistol",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_pistol_intermediário",
+    "nome": "Agachamento – Pistol",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_pistol_avançado",
+    "nome": "Agachamento – Pistol",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "pistol",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (pistol) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_shrimp_squat_iniciante",
+    "nome": "Agachamento – Shrimp Squat",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "shrimp_squat",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (shrimp squat) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_shrimp_squat_intermediário",
+    "nome": "Agachamento – Shrimp Squat",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "shrimp_squat",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (shrimp squat) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_shrimp_squat_avançado",
+    "nome": "Agachamento – Shrimp Squat",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "shrimp_squat",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (shrimp squat) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_lateral_iniciante",
+    "nome": "Agachamento – Lateral",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "lateral",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_lateral_intermediário",
+    "nome": "Agachamento – Lateral",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "lateral",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_lateral_avançado",
+    "nome": "Agachamento – Lateral",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "lateral",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "agachamento_diagonal_iniciante",
+    "nome": "Agachamento – Diagonal",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "diagonal",
+      "iniciante",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (diagonal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "agachamento_diagonal_intermediário",
+    "nome": "Agachamento – Diagonal",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "diagonal",
+      "intermediário",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (diagonal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "agachamento_diagonal_avançado",
+    "nome": "Agachamento – Diagonal",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "avançado",
+    "padrao": "joelho dominante",
+    "tags": [
+      "agachamento",
+      "diagonal",
+      "avançado",
+      "pernas"
+    ],
+    "descricao": "Agachamento fundamental para força de membros inferiores. Esta variação (diagonal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_frontal_iniciante",
+    "nome": "Prancha – Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "frontal",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_frontal_intermediário",
+    "nome": "Prancha – Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "frontal",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_frontal_avançado",
+    "nome": "Prancha – Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "frontal",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_lateral_iniciante",
+    "nome": "Prancha – Lateral",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "lateral",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_lateral_intermediário",
+    "nome": "Prancha – Lateral",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "lateral",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_lateral_avançado",
+    "nome": "Prancha – Lateral",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "lateral",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_alta_iniciante",
+    "nome": "Prancha – Alta",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alta",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_alta_intermediário",
+    "nome": "Prancha – Alta",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alta",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_alta_avançado",
+    "nome": "Prancha – Alta",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alta",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alta) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_baixa_iniciante",
+    "nome": "Prancha – Baixa",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "baixa",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (baixa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_baixa_intermediário",
+    "nome": "Prancha – Baixa",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "baixa",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (baixa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_baixa_avançado",
+    "nome": "Prancha – Baixa",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "baixa",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (baixa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_alternando_braços_iniciante",
+    "nome": "Prancha – Alternando Braços",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_braços",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando braços) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_alternando_braços_intermediário",
+    "nome": "Prancha – Alternando Braços",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_braços",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando braços) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_alternando_braços_avançado",
+    "nome": "Prancha – Alternando Braços",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_braços",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando braços) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_alternando_pernas_iniciante",
+    "nome": "Prancha – Alternando Pernas",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_pernas",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando pernas) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_alternando_pernas_intermediário",
+    "nome": "Prancha – Alternando Pernas",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_pernas",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando pernas) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_alternando_pernas_avançado",
+    "nome": "Prancha – Alternando Pernas",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alternando_pernas",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alternando pernas) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_up_&_down_iniciante",
+    "nome": "Prancha – Up & Down",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "up_&_down",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (up & down) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_up_&_down_intermediário",
+    "nome": "Prancha – Up & Down",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "up_&_down",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (up & down) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_up_&_down_avançado",
+    "nome": "Prancha – Up & Down",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "up_&_down",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (up & down) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_com_rotação_iniciante",
+    "nome": "Prancha – Com Rotação",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_rotação",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com rotação) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_com_rotação_intermediário",
+    "nome": "Prancha – Com Rotação",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_rotação",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com rotação) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_com_rotação_avançado",
+    "nome": "Prancha – Com Rotação",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_rotação",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com rotação) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_estrela_iniciante",
+    "nome": "Prancha – Estrela",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "estrela",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (estrela) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_estrela_intermediário",
+    "nome": "Prancha – Estrela",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "estrela",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (estrela) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_estrela_avançado",
+    "nome": "Prancha – Estrela",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "estrela",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (estrela) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_knee-to-elbow_iniciante",
+    "nome": "Prancha – Knee-to-Elbow",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "knee-to-elbow",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (knee-to-elbow) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_knee-to-elbow_intermediário",
+    "nome": "Prancha – Knee-to-Elbow",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "knee-to-elbow",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (knee-to-elbow) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_knee-to-elbow_avançado",
+    "nome": "Prancha – Knee-to-Elbow",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "knee-to-elbow",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (knee-to-elbow) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_alcance_frontal_iniciante",
+    "nome": "Prancha – Alcance Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alcance_frontal",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alcance frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_alcance_frontal_intermediário",
+    "nome": "Prancha – Alcance Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alcance_frontal",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alcance frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_alcance_frontal_avançado",
+    "nome": "Prancha – Alcance Frontal",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "alcance_frontal",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (alcance frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_com_marcha_iniciante",
+    "nome": "Prancha – Com Marcha",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_marcha",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com marcha) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_com_marcha_intermediário",
+    "nome": "Prancha – Com Marcha",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_marcha",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com marcha) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_com_marcha_avançado",
+    "nome": "Prancha – Com Marcha",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "com_marcha",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (com marcha) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "prancha_isometria_avançada_iniciante",
+    "nome": "Prancha – Isometria Avançada",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "iniciante",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "isometria_avançada",
+      "iniciante",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (isometria avançada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "prancha_isometria_avançada_intermediário",
+    "nome": "Prancha – Isometria Avançada",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "intermediário",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "isometria_avançada",
+      "intermediário",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (isometria avançada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "prancha_isometria_avançada_avançado",
+    "nome": "Prancha – Isometria Avançada",
+    "grupo": "Core",
+    "tipo": "Isometria",
+    "nivel": "avançado",
+    "padrao": "anti-extensão",
+    "tags": [
+      "prancha",
+      "isometria_avançada",
+      "avançado",
+      "core"
+    ],
+    "descricao": "Prancha para estabilização de core e coluna. Esta variação (isometria avançada) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_frontal_iniciante",
+    "nome": "Monkey Bar – Frontal",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "frontal",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_frontal_intermediário",
+    "nome": "Monkey Bar – Frontal",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "frontal",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_frontal_avançado",
+    "nome": "Monkey Bar – Frontal",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "frontal",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (frontal) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_lateral_iniciante",
+    "nome": "Monkey Bar – Lateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "lateral",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_lateral_intermediário",
+    "nome": "Monkey Bar – Lateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "lateral",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_lateral_avançado",
+    "nome": "Monkey Bar – Lateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "lateral",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_reversa_iniciante",
+    "nome": "Monkey Bar – Reversa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "reversa",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (reversa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_reversa_intermediário",
+    "nome": "Monkey Bar – Reversa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "reversa",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (reversa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_reversa_avançado",
+    "nome": "Monkey Bar – Reversa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "reversa",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (reversa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_skip_step_iniciante",
+    "nome": "Monkey Bar – Skip Step",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "skip_step",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (skip step) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_skip_step_intermediário",
+    "nome": "Monkey Bar – Skip Step",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "skip_step",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (skip step) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_skip_step_avançado",
+    "nome": "Monkey Bar – Skip Step",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "skip_step",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (skip step) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_unilateral_iniciante",
+    "nome": "Monkey Bar – Unilateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "unilateral",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (unilateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_unilateral_intermediário",
+    "nome": "Monkey Bar – Unilateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "unilateral",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (unilateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_unilateral_avançado",
+    "nome": "Monkey Bar – Unilateral",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "unilateral",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (unilateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_swing_iniciante",
+    "nome": "Monkey Bar – Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "swing",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_swing_intermediário",
+    "nome": "Monkey Bar – Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "swing",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_swing_avançado",
+    "nome": "Monkey Bar – Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "swing",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_travessia_completa_iniciante",
+    "nome": "Monkey Bar – Travessia Completa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "travessia_completa",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (travessia completa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_travessia_completa_intermediário",
+    "nome": "Monkey Bar – Travessia Completa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "travessia_completa",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (travessia completa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_travessia_completa_avançado",
+    "nome": "Monkey Bar – Travessia Completa",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "travessia_completa",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (travessia completa) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_stop_and_hold_iniciante",
+    "nome": "Monkey Bar – Stop and Hold",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "stop_and_hold",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (stop and hold) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_stop_and_hold_intermediário",
+    "nome": "Monkey Bar – Stop and Hold",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "stop_and_hold",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (stop and hold) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_stop_and_hold_avançado",
+    "nome": "Monkey Bar – Stop and Hold",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "stop_and_hold",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (stop and hold) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_isometria_iniciante",
+    "nome": "Monkey Bar – Isometria",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "isometria",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_isometria_intermediário",
+    "nome": "Monkey Bar – Isometria",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "isometria",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_isometria_avançado",
+    "nome": "Monkey Bar – Isometria",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "isometria",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (isometria) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_com_joelhos_iniciante",
+    "nome": "Monkey Bar – Com Joelhos",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "com_joelhos",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (com joelhos) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_com_joelhos_intermediário",
+    "nome": "Monkey Bar – Com Joelhos",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "com_joelhos",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (com joelhos) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_com_joelhos_avançado",
+    "nome": "Monkey Bar – Com Joelhos",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "com_joelhos",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (com joelhos) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_toes_up_iniciante",
+    "nome": "Monkey Bar – Toes Up",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "toes_up",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (toes up) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_toes_up_intermediário",
+    "nome": "Monkey Bar – Toes Up",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "toes_up",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (toes up) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_toes_up_avançado",
+    "nome": "Monkey Bar – Toes Up",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "toes_up",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (toes up) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_long_swing_iniciante",
+    "nome": "Monkey Bar – Long Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "long_swing",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (long swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_long_swing_intermediário",
+    "nome": "Monkey Bar – Long Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "long_swing",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (long swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_long_swing_avançado",
+    "nome": "Monkey Bar – Long Swing",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "long_swing",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (long swing) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "monkey bar_alternado_iniciante",
+    "nome": "Monkey Bar – Alternado",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "iniciante",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "alternado",
+      "iniciante",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "monkey bar_alternado_intermediário",
+    "nome": "Monkey Bar – Alternado",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "intermediário",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "alternado",
+      "intermediário",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "monkey bar_alternado_avançado",
+    "nome": "Monkey Bar – Alternado",
+    "grupo": "Brazos",
+    "tipo": "Calistenia",
+    "nivel": "avançado",
+    "padrao": "puxar + deslocamento",
+    "tags": [
+      "monkey bar",
+      "alternado",
+      "avançado",
+      "brazos"
+    ],
+    "descricao": "Movimento suspenso na escada horizontal para força e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_clássico_iniciante",
+    "nome": "Burpee – Clássico",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "clássico",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (clássico) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_clássico_intermediário",
+    "nome": "Burpee – Clássico",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "clássico",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (clássico) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_clássico_avançado",
+    "nome": "Burpee – Clássico",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "clássico",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (clássico) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_half_burpee_iniciante",
+    "nome": "Burpee – Half Burpee",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "half_burpee",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (half burpee) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_half_burpee_intermediário",
+    "nome": "Burpee – Half Burpee",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "half_burpee",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (half burpee) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_half_burpee_avançado",
+    "nome": "Burpee – Half Burpee",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "half_burpee",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (half burpee) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_com_salto_iniciante",
+    "nome": "Burpee – Com Salto",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_salto",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com salto) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_com_salto_intermediário",
+    "nome": "Burpee – Com Salto",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_salto",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com salto) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_com_salto_avançado",
+    "nome": "Burpee – Com Salto",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_salto",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com salto) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_com_flexão_iniciante",
+    "nome": "Burpee – Com Flexão",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_flexão",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com flexão) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_com_flexão_intermediário",
+    "nome": "Burpee – Com Flexão",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_flexão",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com flexão) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_com_flexão_avançado",
+    "nome": "Burpee – Com Flexão",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_flexão",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com flexão) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_lateral_iniciante",
+    "nome": "Burpee – Lateral",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "lateral",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_lateral_intermediário",
+    "nome": "Burpee – Lateral",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "lateral",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_lateral_avançado",
+    "nome": "Burpee – Lateral",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "lateral",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (lateral) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_180°_iniciante",
+    "nome": "Burpee – 180°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "180°",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (180°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_180°_intermediário",
+    "nome": "Burpee – 180°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "180°",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (180°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_180°_avançado",
+    "nome": "Burpee – 180°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "180°",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (180°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_360°_iniciante",
+    "nome": "Burpee – 360°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "360°",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (360°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_360°_intermediário",
+    "nome": "Burpee – 360°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "360°",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (360°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_360°_avançado",
+    "nome": "Burpee – 360°",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "360°",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (360°) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_alternado_iniciante",
+    "nome": "Burpee – Alternado",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "alternado",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_alternado_intermediário",
+    "nome": "Burpee – Alternado",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "alternado",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_alternado_avançado",
+    "nome": "Burpee – Alternado",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "alternado",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (alternado) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_explosivo_iniciante",
+    "nome": "Burpee – Explosivo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "explosivo",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_explosivo_intermediário",
+    "nome": "Burpee – Explosivo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "explosivo",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_explosivo_avançado",
+    "nome": "Burpee – Explosivo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "explosivo",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (explosivo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
+  },
+  {
+    "id": "burpee_com_passo_iniciante",
+    "nome": "Burpee – Com Passo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "iniciante",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_passo",
+      "iniciante",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com passo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível iniciante."
+  },
+  {
+    "id": "burpee_com_passo_intermediário",
+    "nome": "Burpee – Com Passo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "intermediário",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_passo",
+      "intermediário",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com passo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível intermediário."
+  },
+  {
+    "id": "burpee_com_passo_avançado",
+    "nome": "Burpee – Com Passo",
+    "grupo": "Fullbody",
+    "tipo": "Cardio",
+    "nivel": "avançado",
+    "padrao": "fullbody explosivo",
+    "tags": [
+      "burpee",
+      "com_passo",
+      "avançado",
+      "fullbody"
+    ],
+    "descricao": "Transição completa de solo com explosão e coordenação. Esta variação (com passo) adiciona estímulos específicos para técnica, controle ou força, adaptando-se ao nível avançado."
   }
 ]
