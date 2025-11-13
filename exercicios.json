@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pullup_pronada",
+    "nome": "Pull-up Pronado",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": ["barra_fixa", "pull", "costas", "intermediário"],
+    "descricao": "Puxada vertical com pegada pronada, trabalhando dorsais, trapézio e antebraços. Base para progressões como muscle-up e front lever."
+  },
+  {
+    "id": "chinup_supinada",
+    "nome": "Chin-up Supinado",
+    "grupo": "Costas",
+    "tipo": "Peso corporal",
+    "nivel": "intermediário",
+    "padrao": "puxar vertical",
+    "tags": ["chinup", "bíceps", "costas"],
+    "descricao": "Variante com pegada supinada, mais amigável para iniciantes e com maior recrutamento de bíceps."
+  },
+  {
+    "id": "air_squat",
+    "nome": "Air Squat",
+    "grupo": "Pernas",
+    "tipo": "Peso corporal",
+    "nivel": "iniciante",
+    "padrao": "joelho dominante",
+    "tags": ["agachamento", "iniciante", "pernas"],
+    "descricao": "Agachamento livre com o peso do corpo, focado em quadríceps e glúteos, base para todas as variações de agachamento."
+  }
+]
